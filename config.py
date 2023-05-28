@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "27353035"))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "5350929381"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+API_ID = int(getenv("API_ID", "25357017"))
+API_HASH = getenv("API_HASH", "df7ba78cede9124c83aeda70288f51ca")
+BOT_TOKEN = getenv("BOT_TOKEN", "6124885849:AAHSIMDvsgyfX_PUb0RsfNtbJ_So2BVmkSA")
+OWNER_ID = int(getenv("OWNER_ID", "5348648456"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://AbhiModszYT:AbhiModszYT@abhimodszyt.flmdtda.mongodb.net/?retryWrites=true&w=majority")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "indian_chatting_club_offical")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "tha_govind_op")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "GOVIND_OFFICIAL_MP42")
 
 # Random Start Images
 IMG = [
